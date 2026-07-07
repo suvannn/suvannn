@@ -17,24 +17,24 @@ Here are some ideas to get you started:
 
 I'm **Suvan**, an aspiring **Data Engineer** from Nepal.
 
-I enjoy building data-driven solutions that transform raw data into meaningful insights. Whether it's designing ETL pipelines, analyzing datasets, or creating dashboards, I like solving problems with data.
+I build data-driven solutions that turn raw data into actionable insights through ETL pipelines, analytics, and dashboards.
 
-I'm currently expanding my knowledge of cloud technologies, data engineering best practices, and scalable data systems while building projects that strengthen my skills.
+Currently learning cloud technologies and building projects to strengthen my Data Engineering skills.
 
-### What I'm Working On
-- Building end-to-end Data Engineering projects
-- Developing ETL pipelines with Python & SQL
-- Creating interactive dashboards with Power BI
-- Learning cloud data platforms and modern data tools
+### Currently Working On
+- End-to-end Data Engineering projects
+- ETL pipelines with Python & SQL
+- Power BI dashboards
+- Cloud data technologies
 
 ### Tech Stack
 - **Languages:** Python, SQL, JavaScript
 - **Data:** Pandas, NumPy, Power BI
-- **Databases:** PostgreSQL, MySQL
+- **Databases:** PostgreSQL, MySQL, Oracle
 - **Web:** Django, React, HTML, CSS
 - **Tools:** Git, GitHub, VS Code
 
-### 📫 Reach Me
+### Reach Me
 - 📧 suvanthapamagar@gmail.com
 - 💼 LinkedIn: www.linkedin.com/in/suvan-thapa-magar-a5687826a
 
