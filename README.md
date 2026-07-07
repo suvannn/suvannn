@@ -21,30 +21,24 @@ I enjoy building data-driven solutions that transform raw data into meaningful i
 
 I'm currently expanding my knowledge of cloud technologies, data engineering best practices, and scalable data systems while building projects that strengthen my skills.
 
-### 🚀 What I'm Working On
+### What I'm Working On
 - Building end-to-end Data Engineering projects
 - Developing ETL pipelines with Python & SQL
 - Creating interactive dashboards with Power BI
 - Learning cloud data platforms and modern data tools
 
-### 🛠 Tech Stack
+### Tech Stack
 - **Languages:** Python, SQL, JavaScript
 - **Data:** Pandas, NumPy, Power BI
 - **Databases:** PostgreSQL, MySQL
 - **Web:** Django, React, HTML, CSS
 - **Tools:** Git, GitHub, VS Code
 
-### 📚 Currently Learning
-- Apache Airflow
-- Docker
-- Azure Data Services
-- Spark
-
 ### 📫 Reach Me
-- 📧 your-email@example.com
-- 💼 LinkedIn: linkedin.com/in/your-profile
+- 📧 suvanthapamagar@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/suvan-thapa-magar-a5687826a
 
-### ⚡ Fun Facts
-- 🎮 I enjoy building side projects that solve real-world problems.
-- 🤖 My background is in Artificial Intelligence, and I'm now specializing in Data Engineering.
-- 🌱 I believe the best way to learn is by building.
+### Fun Facts
+-  I enjoy building side projects that solve real-world problems.
+-  My background is in Artificial Intelligence, and I'm now specializing in Data Engineering.
+-  I believe the best way to learn is by building.
