@@ -38,7 +38,4 @@ Currently learning cloud technologies and building projects to strengthen my Dat
 ![](https://streak-stats.demolab.com/?user=suvannn&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=suvannn&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=suvannn&icon=0&color=10)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
