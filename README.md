@@ -15,20 +15,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm **Suvan**, an aspiring **Data Engineer** from Nepal.
+## Hi there 👋
 
-I build data-driven solutions that turn raw data into actionable insights through ETL pipelines, analytics, and dashboards.
+I'm **Suvan**, an aspiring **AI & Data Engineer** from Nepal.
 
-Currently learning cloud technologies and building projects to strengthen my Data Engineering skills.
+I enjoy building intelligent, data-driven solutions that transform raw data into meaningful insights. My interests span **Artificial Intelligence, Data Engineering, Machine Learning, ETL pipelines, analytics, and data visualization**, with a focus on creating scalable and impactful applications.
 
-### Reach Me
-- 📧 suvanthapamagar@gmail.com
-- 💼 LinkedIn: www.linkedin.com/in/suvan-thapa-magar-a5687826a
+I'm currently expanding my knowledge of **cloud technologies, modern data platforms, and AI systems** while building projects that strengthen both my AI and Data Engineering skills.
 
-### Fun Facts
--  I enjoy building side projects that solve real-world problems.
--  My background is in Artificial Intelligence, and I'm now specializing in Data Engineering.
--  I believe the best way to learn is by building.
+### 📫 Reach Me
+
+* **Email:** [suvanthapamagar@gmail.com](mailto:suvanthapamagar@gmail.com)
+* **LinkedIn:** [www.linkedin.com/in/suvan-thapa-magar-a5687826a](http://www.linkedin.com/in/suvan-thapa-magar-a5687826a)
+
+### ⚡ Fun Facts
+
+* I enjoy building projects that combine **AI and data** to solve real-world problems.
+* I'm passionate about **Machine Learning, Data Engineering, and intelligent applications**.
+* I believe the best way to learn is by building, experimenting, and continuously improving.
 
   
 
